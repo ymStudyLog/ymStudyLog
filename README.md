@@ -1,22 +1,29 @@
-프론트엔드 공부 중인 신입 개발자입니다. 사용하기 편리한 인터페이스를 가진 웹사이트 구축을 위해 여러 사이트들을 방문하면서 아이디어를 얻고 있습니다. 
+#### 프론트엔드 공부 중인 신입 개발자 이유미입니다. 
+#### 사용하기 편리한 인터페이스를 가진 웹사이트 구축을 위해 여러 사이트들을 방문하면서 아이디어를 얻고 있습니다. 
 
-# Contact
--------------------------------------------------------------
-[![gmail-badge](https://img.shields.io/badge/Gmail-ylee585%40gmail.com-red)](mailto:ylee585@gmail.com) ![kakaoID-badge](https://img.shields.io/badge/Kakao--talk-zldzhd9292-brigh) ![Insta-badge](https://img.shields.io/badge/Instagram-youmee______17-yellow) ![phone-badge](https://img.shields.io/badge/Phone-%2B82%2010%203169%200477-blue)
-//그냥 아이콘쓰고 링크나 클립보드 복사로 하기 
+## Contact
+- :phone: 연락처 +82 10 3169 0477
+- :envelope: 이메일 ylee585@gmail.com
+- :smile: 카카오톡 zldzhd9292
 
-# Portfolio
----------------------------------------------------------
-[![portfolio-badge](https://img.shields.io/badge/Portfolio-ymStudyLog.github.io-red)](http://ymStudyLog.github.io/)
-//사용된 프레임워크 :  React.js | tailwind.css
+## Portfolio
+- :earth_asia: 포트폴리오 바로가기
+[![portfolio-badge](https://img.shields.io/badge/portfolio-purple?style=flat)](http://ymStudyLog.github.io/)
 
-# Skills
-----------------------------------------------------------
-//기술 배지 나열하기
 
-# 공부중인 skills
-----------------------------------------------------------
-//bootstrap figma TDD
+## Skills
+![html-badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=000000)
+![css-badge](https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![js-badge](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![react-badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
+![tailwindcss-badge](https://img.shields.io/badge/TailwindCSS-yellow?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4)
+![Mongodb-badge](https://img.shields.io/badge/MongoDB-lightyellow?style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![node-badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=339933)
+
+## 공부중인 skills
+- ![bootstrap-badge](https://img.shields.io/badge/Bootstrap-lightgreen?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+- ![Figma-badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+- :bulb: react 프로젝트 - TDD 적용
 
 <!--
 **ymStudyLog/ymStudyLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
