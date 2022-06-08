@@ -23,6 +23,7 @@
 <!-- ![bootstrap-badge](https://img.shields.io/badge/Bootstrap-lightgreen?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 - ![Figma-badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=F24E1E)-->
 - :bulb: react 프로젝트 - TDD 적용
+- TypeScript
 
 <!--
 **ymStudyLog/ymStudyLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
