@@ -1,5 +1,5 @@
-#### 프론트엔드 공부 중인 신입 개발자 이유미입니다. 
-#### 사용하기 편리한 인터페이스를 가진 웹사이트 구축을 위해 여러 사이트들을 방문하면서 아이디어를 얻고 있습니다. 
+#### 프론트엔드 공부 중인 신입 개발자 이유미입니다.
+#### HTML, CSS, JacaScript(ES6) 베이스로 주로 사용하는 라이브러리는 React.js입니다.
 
 ## Contact
 - :phone: 연락처 +82 10 3169 0477
@@ -9,7 +9,6 @@
 ## Portfolio
 - :earth_asia: 포트폴리오 바로가기
 [![portfolio-badge](https://img.shields.io/badge/portfolio-purple?style=flat)](http://ymStudyLog.github.io/)
-
 
 ## Skills
 ![html-badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=000000)
@@ -21,8 +20,8 @@
 ![node-badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=339933)
 
 ## 공부중인 skills
-- ![bootstrap-badge](https://img.shields.io/badge/Bootstrap-lightgreen?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
-- ![Figma-badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+<!-- ![bootstrap-badge](https://img.shields.io/badge/Bootstrap-lightgreen?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
+- ![Figma-badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=F24E1E)-->
 - :bulb: react 프로젝트 - TDD 적용
 
 <!--
