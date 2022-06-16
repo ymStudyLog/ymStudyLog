@@ -6,9 +6,12 @@
 - :envelope: 이메일 ylee585@gmail.com
 - :smile: 카카오톡 zldzhd9292
 
-## Portfolio
+## Website & blog
 - :earth_asia: 포트폴리오 바로가기
 [![portfolio-badge](https://img.shields.io/badge/portfolio-purple?style=flat)](http://ymStudyLog.github.io/)
+- :clapper: 영화 평점 사이트 바로가기 
+[![movieapp-badge](https://img.shields.io/badge/movieapp-red?style=flat)](http://52.78.78.39:4000/)
+- :smiley: 블로그 [![blog-badge](https://img.shields.io/badge/blog-green?style=flat)](https://velog.io/@zldzhd9292)
 
 ## Skills
 ![html-badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=000000)
