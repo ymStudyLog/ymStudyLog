@@ -17,15 +17,15 @@
 ## Skills
 
 ```
-┌ HTML (https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=000000)
-├ CSS (https://img.shields.io/badge/CSS3-pink?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-├ JavaScript (https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+┌ HTML
+├ CSS 
+├ JavaScript 
 ├ TypeScript 
-├ React.js (https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB)
-├ tailwindCSS (https://img.shields.io/badge/TailwindCSS-yellow?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4)
+├ React.js
+├ tailwindCSS 
 ├ Mui
-├ MongoDB (https://img.shields.io/badge/MongoDB-lightyellow?style=for-the-badge&logo=MongoDB&logoColor=47A248)
-└ Node.js (https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=339933)
+├ MongoDB 
+└ Node.js
 ```
 
 ## 공부중인 skills
