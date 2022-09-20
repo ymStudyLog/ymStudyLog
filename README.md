@@ -8,18 +8,17 @@
 - :smile: 카카오톡 zldzhd9292
 
 ## Website & blog
-- :earth_asia: 포트폴리오 바로가기
+- :earth_asia: 포트폴리오
 [![portfolio-badge](https://img.shields.io/badge/portfolio-purple?style=flat)](http://ymStudyLog.github.io/)
-- :clapper: 영화 평점 사이트 바로가기 <준비 중>
-[![movieapp-badge](https://img.shields.io/badge/movieapp-red?style=flat)]()
+- :clapper: 영화 평점 사이트 <준비 중>
 - :smiley: 블로그 [![blog-badge](https://img.shields.io/badge/blog-green?style=flat)](https://velog.io/@zldzhd9292)
 
 ## Skills
 
 ```
 ┌ HTML
-├ CSS 
-├ JavaScript 
+├ CSS
+├ JavaScript ES6
 ├ TypeScript 
 ├ React.js
 ├ tailwindCSS 
@@ -31,7 +30,7 @@
 ## 공부중인 skills
 <!-- ![bootstrap-badge](https://img.shields.io/badge/Bootstrap-lightgreen?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)
 - ![Figma-badge](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=F24E1E)-->
-- :bulb: react 프로젝트 - TDD 적용
+- :bulb: react - TDD
 
 <!--
 **ymStudyLog/ymStudyLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
